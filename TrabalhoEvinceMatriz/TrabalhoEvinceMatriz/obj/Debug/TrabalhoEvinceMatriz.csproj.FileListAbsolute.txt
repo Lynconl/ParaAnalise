@@ -1,0 +1,11 @@
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\bin\Debug\TrabalhoEvinceMatriz.exe.config
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\bin\Debug\TrabalhoEvinceMatriz.exe
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\bin\Debug\TrabalhoEvinceMatriz.pdb
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\obj\Debug\TrabalhoEvinceMatriz.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\obj\Debug\TrabalhoEvinceMatriz.FormPrincipal.resources
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\obj\Debug\TrabalhoEvinceMatriz.Properties.Resources.resources
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\obj\Debug\TrabalhoEvinceMatriz.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\obj\Debug\TrabalhoEvinceMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\obj\Debug\TrabalhoEvinceMatriz.exe
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\obj\Debug\TrabalhoEvinceMatriz.pdb
+C:\Users\Dell\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Bonilha\TrabalhoEvinceMatriz\TrabalhoEvinceMatriz\obj\Debug\TrabalhoEvinceMatriz.FormCriarMatrizes.resources
